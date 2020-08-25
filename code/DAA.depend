@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554735986 source:c:\users\a d\desktop\java\daa\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1555952870 source:c:\users\a d\desktop\daa\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1555952870 source:c:\users\a d\desktop\daa project\tic tac toe\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
